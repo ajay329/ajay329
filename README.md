@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h3 align="center">Ambitious and aspiring Full stack Web Developer with a specialization in Javascript, MongoDB, Express , Nodejs, React, Redux, and REST API, passionate about coding and learning new technologies. Looking forward to working to join an organization where I can contribute and learn.</h3>
+<h3 align="center">Ambitious and aspiring Full stack Web Developer with a specialization in Javascript, MongoDB, Express , Nodejs, React, and REST API, passionate about coding and learning new technologies. Looking forward to working to join an organization where I can contribute and learn.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966"/>
 
@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Javascript, React , CSS, MongoDb, Express**
 
-- 📫 How to reach me **Ajaypandat329@gmail.com**
+- 📫 How to reach me **ajaypandat329@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1JmOpcDhIu_vlEbjHypmsCKmNpxfq-xlg/view?usp=sharing](https://drive.google.com/file/d/1JmOpcDhIu_vlEbjHypmsCKmNpxfq-xlg/view?usp=sharing)
 
