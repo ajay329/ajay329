@@ -9,15 +9,16 @@
 - 🌱 I’m currently learning **Data Structure & Algorithm**
 
 
-- 👨‍💻 All of my projects are available at [https://ajay329.github.io/](https://ajay329.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://ajay329.github.io)
 
 - 💬 Ask me about **Javascript, React , CSS, MongoDb, Express**
 
 - 📫 How to reach me **ajaypandat329@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1JmOpcDhIu_vlEbjHypmsCKmNpxfq-xlg/view?usp=sharing](https://drive.google.com/file/d/1JmOpcDhIu_vlEbjHypmsCKmNpxfq-xlg/view?usp=sharing)
+- 📄 Know about my experiences [My Portfolio ](https://drive.google.com/file/d/1JmOpcDhIu_vlEbjHypmsCKmNpxfq-xlg/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+
+<h2 align="center"><i>Let's Connect</i></h2>
 <p align="left">
 <a href="https://linkedin.com/in/ajay-kumar-866030169/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajay-kumar-866030169/" height="30" width="40" /></a>
 <a href="https://codesandbox.com/ajaypandat329" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="ajaypandat329" height="30" width="40" /></a>
