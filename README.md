@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ajaypandat329@gmail.com**
 
-- 📄 Know about my experiences [My resume ](https://drive.google.com/file/d/1JmOpcDhIu_vlEbjHypmsCKmNpxfq-xlg/view?usp=sharing)
+- 📄 Know about my experiences [My resume ](https://drive.google.com/file/d/1JmOpcDhIu_vlEbjHypmsCKmNpxfq-xlg/view?usp=share_link)
 
 
 <h2 align="center"><i>Let's Connect</i></h2>
