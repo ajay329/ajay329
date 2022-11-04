@@ -37,10 +37,7 @@
    <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajay329&theme=onedark" alt="ajay329" />
     </p>
 
-<div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay329&theme=radical" alt="Samruddhi" height="250px" width="47%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ajay329&show_icons=true&theme=radical" height="255px" width="47%"/>
-<div>
+
   </br>
   
 <div>
