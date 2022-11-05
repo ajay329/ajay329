@@ -42,7 +42,7 @@
   
 
 <div>
-  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay329&theme=radical" alt="Samruddhi" height="250px" width="47%" />
+  <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ajay329&theme=radical" alt="ajay" height="250px" width="47%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=ajay329&show_icons=true&theme=radical" height="255px" width="47%"/>
 <div>
   </br>
